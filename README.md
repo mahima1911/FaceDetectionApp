@@ -1,6 +1,6 @@
 # FaceDetectionApp
 
-### An Android application that by opening its camera scans an image and detects the faces in the image by providing a bounding bos around it.
+### An Android application that by opening its camera scans an image and detects the faces in the image by providing a Bounding Box around it.
 #### It uses MLKit by Google Firebase
 
 
