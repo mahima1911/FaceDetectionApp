@@ -4,4 +4,4 @@
 #### It uses MLKit by Google Firebase
 
 
-Finf the working of the app in FaceDetectionAppDemo.mp4
+Finf the working of the app in FaceDetectionApp.mp4
